@@ -29,4 +29,5 @@
 
 주차 | 챕터 | 관련 이슈 | 스마🦹‍♀️
 :---: | :---: | --- | :---:
-
+1 | Singleton Pattern | [issue](https://github.com/holdanddeepdive/patterns/issues/1) | sbyeol3
+2 | Proxy Pattern, Provider Pattern | | hyunahOh

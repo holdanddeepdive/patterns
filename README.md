@@ -22,8 +22,6 @@
  - [humonnom](https://github.com/humonnom)
  - [hyunahOh](https://github.com/hyunahOh)
  - [sbyeol3](https://github.com/sbyeol3)
- - [songji1165](https://github.com/songji1165)
- - [yoonjeong-choi-dev](https://github.com/yoonjeong-choi-dev)
 
 ## 5. 스터디 목록
 

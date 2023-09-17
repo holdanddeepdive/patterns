@@ -33,4 +33,5 @@
 4 | Observer Pattern, Module Pattern | | Choozii
 5 | Mixin Pattern, Mediator/Middleware Pattern | | sbyeol3
 6 | Render Props, Hooks pattern | | hyunahOh
+7 | Flyweight, Factory pattern | | Choozii
 

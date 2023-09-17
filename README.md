@@ -32,4 +32,5 @@
 3 | Prototype Pattern, Container/Presentational Pattern | | humonnom
 4 | Observer Pattern, Module Pattern | | Choozii
 5 | Mixin Pattern, Mediator/Middleware Pattern | | sbyeol3
+6 | Render Props, Hooks pattern | | hyunahOh
 

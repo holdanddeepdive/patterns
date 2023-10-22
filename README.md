@@ -34,6 +34,6 @@
 5 | Mixin Pattern, Mediator/Middleware Pattern | | sbyeol3
 6 | Render Props, Hooks pattern | | hyunahOh
 7 | Flyweight, Factory pattern | | Choozii
-7 | Compound, Command pattern | | humonnom
-
-
+8 | Compound, Command pattern | | humonnom
+9 | -- | | sbyeol3
+10 | Rendering Introduction, Next.js, React.js  | | hyunahOh
